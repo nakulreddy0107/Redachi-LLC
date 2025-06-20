@@ -1,0 +1,6 @@
+@RedachiApi_HostAddress = http://localhost:5270
+
+GET {{RedachiApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
